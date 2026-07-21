@@ -1,1 +1,1 @@
-Hello everybody, in this project i will upload daily python projects and since i am still a learner; by everday i will upgrade the difficulty of my projects.
+Hello everybody, in this project i will upload daily python projects and since i am still a learner; by everday i will upgrade the difficulty of my projects. But, enevtually, after a while when i do not left any fundamental things to learn i will be loading a project in 5 days for the rest. I have given this decision by help with the reddit users, i appreciate their feedback, thank you.
