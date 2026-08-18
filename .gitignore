@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 calculator,py
 log.txt
+secret.key
